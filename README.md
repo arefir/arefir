@@ -1,4 +1,4 @@
-[![Arefir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefir)]
+![Arefir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefir&show_icons=true&theme=transparent)
 
 <!--
 **arefir/arefir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
